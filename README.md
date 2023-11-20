@@ -1,7 +1,6 @@
 # Juego_FPS_Semana7
 Este es el codigo y demas de un videojuego FPS inspirado en Call of Duty
 
-
 Esta semana vamos a desarrollar un videojuego FPS estilo Call Of Duty.
 
 El juego tendrá que seguir las siguientes instrucciones, a partir de las cuales se puede añadir lo que se desee:
@@ -15,7 +14,7 @@ El juego tendrá que seguir las siguientes instrucciones, a partir de las cuales
 
 - Tendremos una munición, vidas y enemigos. El juego terminará cuando esta se acabe o perdamos la vida chocando con nuestro enemigo.
 
-# - Enviar imágenes de sus personajes y enemigos a utilizar en el videojuego en el grupo de whatsapp para su aprobación en el proyecto.
+- Enviar imágenes de sus personajes y enemigos a utilizar en el videojuego en el grupo de whatsapp para su aprobación en el proyecto.
 
 Un ejemplo sería tener equipado un arco con cinco flechas y que hubiese que disparar a cinco dianas distintas ubicadas en un terreno. Cuando la quinta flecha se clave (o no) en la última diana, el juego terminará y mostrará por consola (o por pantalla) la puntuación obtenida y las vidas restantes. 
 
